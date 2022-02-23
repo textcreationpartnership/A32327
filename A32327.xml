@@ -1,0 +1,292 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties most gracious speech, together with the Lord Chancellors, to both Houses of Parliament to which is added His Lordships several speeches : as also those of Sir Job Charleton ... / delivered at the opening of the Parliament on Tuesday, February 4. and Wednesday February 5. 1672/3.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32327</idno>
+            <idno type="STC">Wing C3172</idno>
+            <idno type="STC">ESTC R35499</idno>
+            <idno type="EEBO-CITATION">15345628</idno>
+            <idno type="OCLC">ocm 15345628</idno>
+            <idno type="VID">103453</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32327)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103453)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1147:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties most gracious speech, together with the Lord Chancellors, to both Houses of Parliament to which is added His Lordships several speeches : as also those of Sir Job Charleton ... / delivered at the opening of the Parliament on Tuesday, February 4. and Wednesday February 5. 1672/3.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Charleton, Job, Sir, 1614-1697.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill and Christopher Barker ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Cum privilegio."</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  History.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103453:1"/>
+            <pb facs="tcp:103453:1" rendition="simple:additions"/>
+            <p>His Majeſties MOST GRACIOUS SPEECH, Together with the Lord Chancellors, To Both Houſes of Parliament.</p>
+            <p>To which is added, His Lordſhips ſeveral <hi>SPEECHES;</hi> As alſo, thoſe of Sir <hi>JOB CHARLETON,</hi> At his admiſſion of Speaker to the Honourable HOUSE of COMMONS.</p>
+            <p>Delivered at the Opening of the Parliament, on Tueſday <hi>February</hi> 4.</p>
+            <p>And Wedneſday <hi>February</hi> 5. 1672/3.</p>
+            <p>
+               <hi>By His Majeſties ſpecial Command.</hi>
+            </p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by the Aſſign<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>John Bill</hi> and <hi>Christopher Barker,</hi> Printers to the Kings moſt Excellent Majeſty. 1672/3.</p>
+            <p>
+               <hi>C<g ref="char:V">Ʋ</g>M PRIVILEGIO.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:103453:2"/>
+            <pb n="3" facs="tcp:103453:2"/>
+            <head>
+               <hi>His MAJESTIES</hi> Gracious Speech To both Houſes of PARLIAMENT, Wedneſday <hi>Febr.</hi> 5. 1672.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am glad to ſee you here this day; I would have called you together ſooner, but that I was willing to Eaſe you and the Countrey, till there were an abſo<g ref="char:EOLhyphen"/>lute neceſsity.</p>
+            <p>Since you were last here, I have been forced to a most important, neceſſary, and expenſive War, and I make no doubt, but you will give Me ſuit<g ref="char:EOLhyphen"/>able and effectual Aſsistance to go through with it. I refer you to My Declaration for the Cauſes, and in<g ref="char:EOLhyphen"/>deed the Neceſsity of this War; and ſhall now onely tell you, That I might have digested the Indignities to My Own Perſon, rather then have brought it to this Extremi<g ref="char:EOLhyphen"/>ty, if the Intereſt, as well as the Honour of the whole Kingdom had not been at stake: And if I had omitted this Conjuncture, perhaps I had not again ever met with the like Advantage.</p>
+            <p>You will find that the laſt Supply you gave Me, did not anſwer Expectation for the Ends you gave it, The payment of My Debts. Therefore I must in the next place recommend them again to your eſpecial Care.</p>
+            <p>Some few days before I Declared the War, I put forth My Declaration for Indulgence to Diſſenters, and have hitherto found a good Effect of it, by ſecuring Peace at Home, when I had War Abroad. There is one part in it
+<pb n="4" facs="tcp:103453:3"/> that hath been ſubject to Miſconſtruction, which is that concerning the Papiſts; as if more Liberty were granted them, then to the other Recuſants; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen it is plain there is leſs? For the Others have Publick places allowed them, and I never intended that they ſhould have any, but onely have the Freedom of their Religion in their own houſes, without any Concourſe of others. And I could not Grant them leſs then this, when I had extended ſo much more Grace to others, moſt of them having been Loyal and in the Service of Me, and of the King my Father; And in the whole Courſe of this Indulgence, I do not in<g ref="char:EOLhyphen"/>tend that it ſhall any way Prejudice the Church, but I will Support its Rights, and It in its full Power. Having ſaid this, I ſhall take it very ill to receive Contradiction in what I have done. And I will deal plainly with you, I am reſolved to ſtick to my Declaration.</p>
+            <p>There is one Jealouſie more that is maliciouſly ſpread abroad, and yet ſo weak and frivolous, that I once thought it not of moment enough to mention; but it may have gotten ſome ground with ſome well minded people, and that is, That the Forces I have raiſed in this War, were deſigned to Control Law and Property; I wiſh I had had more Forces the laſt Summer, the want of them then, convinces me I must raiſe more againſt this next Spring; And I do not doubt but you will Conſider the Charge of them in your Supplies.</p>
+            <p>I will Conclude with this aſſurance to you, That I will preſerve the true Reformed Protestant Religion, and the Church as it is now Establiſhed in this Kingdom, and that no mans Property or Liberty ſhall ever be invaded.</p>
+            <trailer type="segue">I leave the reſt to the Chancellor.</trailer>
+         </div>
+         <div type="speech">
+            <pb n="5" facs="tcp:103453:3"/>
+            <head>THE Lord Chancellor's SPEECH.</head>
+            <opener>
+               <salute>My Lords, and you the Knights, Citizens and Burgeſſes of the Houſe of Commons.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He King hath ſpoken ſo fully, ſo excellently well, and ſo like Him<g ref="char:EOLhyphen"/>ſelf, that you are not to expect much from me. There is not a word in His Speech that hath not its <hi>full weight:</hi> And, I dare with aſſurance ſay, will have its <hi>effect</hi> with you. His Majeſty had called you ſooner, and His Affairs required it, but that He was reſolved to give you all the eaſe, and vacancy to your own private Concerns; and the People as much reſpit from Payments and Taxes, as the ne<g ref="char:EOLhyphen"/>ceſſity of His Buſineſs, or their Preſer<g ref="char:EOLhyphen"/>vation would permit. And yet (which I cannot but here mention to you) by the Crafty inſinuations of ſome ill
+<pb n="6" facs="tcp:103453:4"/> affected perſons, there have been ſpread ſtrange and deſperate <hi>rumours,</hi> which your Meeting together this day, hath ſufficiently proved both malicious, and falſe.</p>
+            <p>His Majeſty hath told you, that He is now engaged in an important, very expenſive, and indeed a <hi>War</hi> abſolute<g ref="char:EOLhyphen"/>ly neceſſary, and unavoidable. He hath referred you to His <hi>Declaration,</hi> where you will find the <hi>Perſonal indignities</hi> by <hi>Pictures,</hi> and <hi>Medals,</hi> and other <hi>publique affronts,</hi> His Majeſty hath re<g ref="char:EOLhyphen"/>ceived from the <hi>States,</hi> their <hi>breach of Treaties</hi> both in the <hi>Surinam,</hi> and <hi>Eaſt-India</hi> buſineſs: and at laſt they came to that height of inſolence, as to deny the honour and right of the <hi>Flag,</hi> though an undoubted Jewel of this Crown, never to be parted with, and by them particularly owned, in the late Treaty of <hi>Breda,</hi> and never conteſted in any age. And whileſt the King firſt long expected, and then ſolemnly de<g ref="char:EOLhyphen"/>manded <hi>Satisfaction,</hi> they diſputed His title to it in all the <hi>Courts</hi> of <hi>Chri<g ref="char:EOLhyphen"/>ſtendom,</hi> and made great offers to the <hi>French King,</hi> if he would ſtand by them
+<pb n="7" facs="tcp:103453:4"/> againſt us. But the <hi>moſt Chriſtian King</hi> too well remembred what they did at <hi>Munſter,</hi> contrary to ſo many Treaties, and ſolemn Ingagements; and how dangerous a neighbour they were to all <hi>Crowned heads.</hi>
+            </p>
+            <p>The <hi>King</hi> and His <hi>Miniſters</hi> had here a hard time, and lay every day un<g ref="char:EOLhyphen"/>der new <hi>obloquies.</hi> Sometimes they were repreſented as <hi>ſelling</hi> all to <hi>France</hi> for money, to make this <hi>War: Portſ<g ref="char:EOLhyphen"/>mouth, Plimouth,</hi> and <hi>Hull,</hi> were to be given into the <hi>French</hi> hands for Caution. The next day news came, that <hi>France,</hi> and <hi>Holland</hi> were agreed. Then the <hi>obloquy</hi> was turned from <hi>treachery</hi> to <hi>folly:</hi> The miniſters were now <hi>Fools,</hi> that ſome days before were <hi>Villains.</hi> And indeed the <hi>Coffee-houſes</hi> were not to be blamed for their laſt ap<g ref="char:EOLhyphen"/>prehenſions; ſince if that <hi>Conjunction</hi> had taken effect, then <hi>England</hi> had been in a far worſe caſe then now it is, and the War had been turned upon us. But <hi>both Kings,</hi> knowing their Intereſts, reſolved to Joyn againſt them, who were the Common Enemies to all <hi>Monarchies,</hi> and I may ſay, eſpecially
+<pb n="8" facs="tcp:103453:5"/> to ours, their onely Competitor <hi>for trade,</hi> and <hi>power</hi> at <hi>Sea;</hi> and who one<g ref="char:EOLhyphen"/>ly ſtand in their way to an <hi>univerſal Empire,</hi> as great as <hi>Rome.</hi> This the <hi>States</hi> underſtood ſo well, and had ſwallowed ſo deep, that under all their preſent diſtreſs, and danger, they are ſo intoxicated with that <hi>vaſt ambition,</hi> that they ſlight a <hi>Treaty,</hi> and refuſe a <hi>Ceſ<g ref="char:EOLhyphen"/>ſation.</hi>
+            </p>
+            <p>All this you, and the whole Nation ſaw before the laſt <hi>War;</hi> but it could not then be ſo well <hi>timed,</hi> or our <hi>allian<g ref="char:EOLhyphen"/>ces</hi> ſo well made. But you judged a<g ref="char:EOLhyphen"/>right, that at any rate, <hi>Delenda eſt Car<g ref="char:EOLhyphen"/>thago,</hi> That <hi>Government</hi> was to be brought down. And therfore the <hi>King</hi> may well ſay to you, <hi>Tis your War.</hi> He took His <hi>meaſures</hi> from you, and they were <hi>juſt,</hi> and <hi>right</hi> ones: and He expects a ſuitable <hi>aſsiſtance</hi> to ſo neceſ<g ref="char:EOLhyphen"/>ſary, and expenſive an action, which He has hitherto maintained at His own charge, and was unwilling either to <hi>trouble</hi> you, or <hi>burden</hi> the <hi>Country,</hi> un<g ref="char:EOLhyphen"/>til it came to an <hi>inevitable neceſsity.</hi> And His Majeſty commands me to tell you, that unleſs it be a <hi>certain Sum,</hi> and
+<pb n="9" facs="tcp:103453:5"/> 
+               <hi>ſpeedily raiſed,</hi> it can never anſwer the Occaſion.</p>
+            <p>
+               <hi>My Lords and Gentlemen,</hi>
+            </p>
+            <p>
+               <hi>Reputation</hi> is the great ſupport of War or Peace. This <hi>War</hi> had never begun, nor had the <hi>States</hi> ever ſlighted the <hi>King,</hi> or ever refuſed Him <hi>Satis<g ref="char:EOLhyphen"/>faction,</hi> neither had this <hi>War</hi> continued to this day, or ſubſiſted now, but that the <hi>States</hi> were deceived in their <hi>mea<g ref="char:EOLhyphen"/>ſures,</hi> and apprehended His <hi>Majeſty</hi> in that great want of money, that He muſt ſit down under any <hi>affronts,</hi> and was not able to begin, or carry on a <hi>War.</hi> Nay, at this day the <hi>States</hi> ſup<g ref="char:EOLhyphen"/>port themſelves amongſt their people by this only <hi>falſhood,</hi> that they are aſſu<g ref="char:EOLhyphen"/>red of the <hi>temper</hi> of <hi>England,</hi> and of the <hi>Parliament,</hi> and that You will not ſupply the King in this War: And that if they can hold out till your meeting, they will have new life, and may take new <hi>meaſures.</hi> There are lately taken, two of their principal <hi>Agents,</hi> with their Credentials and Inſtructions to this purpoſe, who are now in the <hi>Tow<g ref="char:EOLhyphen"/>er,</hi> and ſhall be proceeded againſt accor<g ref="char:EOLhyphen"/>ding to the Law of Nations. But the
+<pb n="10" facs="tcp:103453:6"/> King is ſufficiently aſſured of <hi>His peo<g ref="char:EOLhyphen"/>ple:</hi> Knows you better: and can never doubt His <hi>Parliament.</hi> This had not been mentioned, but to ſhew you of what importance the <hi>frankneſs,</hi> and <hi>ſea<g ref="char:EOLhyphen"/>ſonableneſs</hi> of this <hi>Supply</hi> is, as well as the <hi>fulneſs</hi> of it. Let me ſay, the King has brought the <hi>States</hi> to that conditi<g ref="char:EOLhyphen"/>on, that your hearty conjunction, at this time, in <hi>ſupplying</hi> His Majeſty, will make them never more formidable to Kings, or dangerous to <hi>England.</hi> And if after this you ſuffer them to get up, let this be remembred, The <hi>States</hi> of <hi>Holland</hi> are <hi>Englands</hi> eternal Enemy both by <hi>intereſt,</hi> and <hi>inclination.</hi>
+            </p>
+            <p>In the next place, to the ſupply for the carrying on of the War, His Ma<g ref="char:EOLhyphen"/>jeſty recommends to you the taking care of His <hi>Debts.</hi> What you gave the laſt Seſſion did not near anſwer <hi>your own expectation.</hi> Beſides, an other conſi<g ref="char:EOLhyphen"/>derable Aid you deſigned His Majeſty, was <hi>unfortunately loſt in the birth;</hi> ſo that the King was forced for the carry<g ref="char:EOLhyphen"/>ing on of His affairs, much againſt His will, to put a ſtop to the payments out of the <hi>Exchequer.</hi> He ſaw the <hi>preſ<g ref="char:EOLhyphen"/>ſures</hi>
+               <pb n="11" facs="tcp:103453:6"/> upon himſelf, and <hi>growing incon<g ref="char:EOLhyphen"/>veniencies</hi> to His people by great inte<g ref="char:EOLhyphen"/>reſt; and the difference through all His Buſineſs between <hi>Ready money,</hi> and <hi>Orders.</hi> This gave the King the neceſ<g ref="char:EOLhyphen"/>ſity of that proceeding; to make uſe of His own Revenue, which hath been of ſo great effect in this War. But though he hath put a ſtop to the trade, and gain of the <hi>Bankers,</hi> yet he would be unwil<g ref="char:EOLhyphen"/>ling to ruine them, and oppreſs ſo ma<g ref="char:EOLhyphen"/>ny <hi>Families,</hi> as are concerned in thoſe debts; Beſides, it were too diſpropor<g ref="char:EOLhyphen"/>tionable a burden upon many of His good Subjects. But neither the <hi>Bank<g ref="char:EOLhyphen"/>ers,</hi> nor they, have reaſon to complain, if you now take them into your care, and they have paid them, what was due to them, when the Stop was made, with Six <hi>per Cent.</hi> intereſt from that time. The King is very much concerned both in <hi>Honour,</hi> and <hi>Intereſt</hi> to ſee this done. And yet he deſires you not to mis-time it: but that it may have only the ſecond place, and that you will firſt ſettle, what you intend about the <hi>Sup<g ref="char:EOLhyphen"/>ply.</hi>
+            </p>
+            <p>His Majeſty has ſo fully vindicated
+<pb n="12" facs="tcp:103453:7"/> His <hi>Declaration</hi> from that Calumny concerning the <hi>Papiſts,</hi> that no reaſona<g ref="char:EOLhyphen"/>ble ſcruple can be made by any good man. He has ſufficiently juſtified it by the time it was publiſhed in, and the effects He hath had from it; and might have done it more, from the agreeable<g ref="char:EOLhyphen"/>neſs of it, to His own natural diſpoſition, which no good <hi>Engliſh</hi> man can wiſh other then it is. He loves not bloud, or rigorous ſeverities; but where <hi>mild,</hi> or <hi>gentle</hi> wayes may be uſed by a <hi>wiſe Prince,</hi> He is certain to chooſe them. The <hi>Church of England,</hi> and all good <hi>Proteſtants</hi> have reaſon to rejoyce in ſuch a <hi>Head,</hi> and ſuch a <hi>Defender.</hi> His Majeſty doth declare His care, and con<g ref="char:EOLhyphen"/>cerns for the <hi>Church,</hi> and will maintain them in all their <hi>rights</hi> and <hi>priviledges,</hi> equal, if not beyond any of His Prede<g ref="char:EOLhyphen"/>ceſſors: He was born, and bred up in it: It was that His Father died for: We all know how great temptations and offers He reſiſted abroad, when He was in His loweſt condition: And He thinks it the honour of His reign, that He hath been the <hi>Reſtorer</hi> of the <hi>Church:</hi> 'Tis that He will ever maintain, and hopes to
+<pb n="13" facs="tcp:103453:7"/> leave to poſteritie, in greater <hi>luſtre,</hi> and upon ſurer <hi>grounds,</hi> then our anceſtors ever ſaw it. But His Majeſty is not con<g ref="char:EOLhyphen"/>vinced that <hi>violent ways</hi> are the intereſt of <hi>Religion</hi> or the <hi>Church.</hi>
+            </p>
+            <p>There is one thing more, that I am commanded to ſpeak to you of, Which is the <hi>jealouſie,</hi> that hath been fooliſhly ſpread abroad, of the forces the King hath raiſed in this War. Wherein the King hath <hi>opened himſelf freely</hi> to you, and confeſſed the fault on the other hand. For if this laſt Summer had not proved a <hi>miracle</hi> of <hi>ſtorms,</hi> and <hi>tempeſts,</hi> ſuch as ſecured their <hi>Eaſt-India</hi> Fleet, and protected their Sea-coaſt from a diſcent, nothing but the true reaſon (want of Money) could have juſtified the defect in the number of our forces. 'Tis that His Majeſty is providing for againſt the next Spring, having given out <hi>Orders</hi> for the raiſing of ſeven or eight Regiments more of Foot, under the Command of Perſons of the great<g ref="char:EOLhyphen"/>eſt <hi>Fortunes</hi> and <hi>Quality.</hi> And I am earneſtly to recommend to you, that in your Supplies, you will take into your conſideration this neceſſary <hi>addition</hi> of <hi>charge</hi>
+            </p>
+            <pb n="14" facs="tcp:103453:8"/>
+            <p>And after His Majeſties <hi>concluſion</hi> of His Speech, let me <hi>conclude,</hi> nay let us all <hi>conclude</hi> with bleſſing <hi>God,</hi> and the <hi>King.</hi> Let us bleſs <hi>God,</hi> that he hath gi<g ref="char:EOLhyphen"/>ven us ſuch a <hi>King</hi> to be the <hi>repairer</hi> of our <hi>breaches</hi> both in <hi>Church</hi> and <hi>State:</hi> and the <hi>reſtorer of our paths to dwell in:</hi> That in the midſt of War and Miſe<g ref="char:EOLhyphen"/>ry, which rages in our neighbour Countries, our <hi>garners are full,</hi> and <hi>there is no complaining in our ſtreets:</hi> And a man can hardly <hi>know</hi> that there is a War. Let us bleſs <hi>God,</hi> that hath given this King ſignally the hearts of His <hi>people,</hi> and moſt particularly of this <hi>Parliament,</hi> who in their affection and loyaltie to their Prince, have exceeded <hi>all</hi> their predeceſſors. A <hi>Parliament</hi> with whom the King hath many years lived with all the <hi>Careſſes</hi> of a happy Mariage. Has the King had a <hi>concern?</hi> You have wedded it. Has His Maje<g ref="char:EOLhyphen"/>ſty wanted <hi>Supplies?</hi> You have readi<g ref="char:EOLhyphen"/>ly, cheerfully, and fully provided for them. You have relied upon the <hi>Wiſ<g ref="char:EOLhyphen"/>dom</hi> and <hi>Conduct</hi> of His Majeſtie in all His affairs: ſo that you have never at<g ref="char:EOLhyphen"/>tempted to exceed <hi>your bounds,</hi> or to
+<pb n="15" facs="tcp:103453:8"/> 
+               <hi>impoſe</hi> upon Him: whileſt the King on the other hand, hath made Your Coun<g ref="char:EOLhyphen"/>ſels the foundations of all His proceed<g ref="char:EOLhyphen"/>ings; and hath been ſo tender of you, that He hath upon His own <hi>revenue</hi> and <hi>credit</hi> endeavoured to ſupport even <hi>fo<g ref="char:EOLhyphen"/>reign Wars,</hi> that he might be leaſt unea<g ref="char:EOLhyphen"/>ſie to you, or burdenſom to His people. And let me ſay, that though this <hi>Mar<g ref="char:EOLhyphen"/>riage</hi> be according to <hi>Moſes</hi>'s <hi>Law,</hi> where the husband can give a <hi>bill of di<g ref="char:EOLhyphen"/>vorce,</hi> put her away, and take <hi>another:</hi> Yet I can aſſure you, it is as impoſſible for the King to part with <hi>this Parlia<g ref="char:EOLhyphen"/>ment,</hi> as it is for <hi>you</hi> to depart from that <hi>loyaltie, affection,</hi> and <hi>dutiful behavi<g ref="char:EOLhyphen"/>our,</hi> you have hitherto ſhewed towards Him.</p>
+            <p>Let us bleſs the <hi>King</hi> for taking a<g ref="char:EOLhyphen"/>way all our <hi>fears,</hi> and leaving no room for <hi>jealouſies:</hi> For thoſe <hi>aſſurances,</hi> and <hi>promiſes</hi> He hath made us. Let us bleſs <hi>God</hi> and the <hi>King,</hi> that our <hi>Re<g ref="char:EOLhyphen"/>ligion</hi> is ſafe: That the <hi>Church of England</hi> is the care of our Prince: That <hi>Parliaments</hi> are ſafe: That our
+<pb n="16" facs="tcp:103453:9"/> 
+               <hi>Properties</hi> and <hi>Liberties</hi> are ſafe. What more hath a good <hi>Engliſh</hi> man to ask, but that <hi>this King</hi> may long reign, and that this Triple-alliance, of <hi>King, Parliament,</hi> and <hi>People,</hi> may never be diſſolved?</p>
+            <div type="colophon">
+               <p>
+                  <hi>LONDON,</hi>
+               </p>
+               <p>Printed by the Aſsigns of <hi>John Bill</hi> and <hi>Chriſto<g ref="char:EOLhyphen"/>pher Barker,</hi> Printers to the Kings Moſt Excellent Majeſty, 1672,/3</p>
+            </div>
+         </div>
+         <div type="speech">
+            <pb n="17" facs="tcp:103453:9"/>
+            <head>THE <hi>LORD CHANCELLORS</hi> SPEECH. <hi>Feb.</hi> 4. 1672.</head>
+            <opener>
+               <salute>My Lords, and you the Knights, Citizens and Burgeſſes of the Houſe of Commons.</salute>
+            </opener>
+            <p>HIs Majeſty hath commanded me to tell you, that he hath many things to ſay to you, but he thinks not this a proper time, but will defer it till the <hi>Houſe of Commons</hi> be compleated with a new <hi>Speaker.</hi> For his Majeſty hath ſince the laſt Seſſion, as a mark of his Favour to <hi>his Houſe of Commons,</hi> and that he might reward ſo good a <hi>Servant,</hi> taken their late <hi>Speaker, Sr. Edward Turner,</hi> to be Lord Chief Ba<g ref="char:EOLhyphen"/>ron of the Exchequer, and called him by Writ to be an aſsiſtant to <hi>this Houſe.</hi> I am therefore com<g ref="char:EOLhyphen"/>manded to acquaint you Gentlemen of the <hi>Houſe of Commons,</hi> that it is the Kings pleaſure you repair to your Houſe, and Elect a <hi>Diſcreet, Wiſe, and Learned man,</hi> who after he hath been by you <hi>Pre<g ref="char:EOLhyphen"/>ſented,</hi> and that preſentation by His Majeſty <hi>admit<g ref="char:EOLhyphen"/>ted,</hi> ſhall then poſſeſs the office of your <hi>common Mouth and Speaker.</hi> And the King is pleaſed to be here to Morrow in the Afternoon, to receive the <hi>Preſentment</hi> of him accordingly.</p>
+         </div>
+         <div type="speech">
+            <pb n="18" facs="tcp:103453:10"/>
+            <head>Sir <hi>JOB CHARLTON'S</hi> SPEECH, <hi>February</hi> 5. 1672.</head>
+            <opener>
+               <salute>Moſt Gracious Sovereign,</salute>
+            </opener>
+            <p>THe Knights, Citizens, and Burgeſſes of the Houſe of Commons, in Obedience to Your Royal Command, have proceed<g ref="char:EOLhyphen"/>ed to the Choice of a Speaker.</p>
+            <p>They have among them many wor<g ref="char:EOLhyphen"/>thy Perſons, Eminently qualified for ſo great a Truſt; yet with too favour<g ref="char:EOLhyphen"/>able an eye have caſt it upon me, who am really conſcious to my ſelf of many infirmities, rendring me much unfit for ſo great an Imployment: And al<g ref="char:EOLhyphen"/>though my endeavours of excuſing my ſelf before them, have not been ſuc<g ref="char:EOLhyphen"/>ceſsful, yet they have been ſo Indul<g ref="char:EOLhyphen"/>gent, as to permit me to continue my endeavours therein before Your Ma<g ref="char:EOLhyphen"/>jeſties moſt piercing and diſcerning Judgment.</p>
+            <pb n="19" facs="tcp:103453:10"/>
+            <p>The Veneration due to Majeſty, which lodgeth in every Loyal Breaſt, makes it not an eaſie matter to ſpeak before Your Majeſty, at any time, or in any capacity; But to ſpeak before Your Majeſty in Your Exaltation, thus gloriouſly ſupported and attended, and that as Speaker of Your Houſe of C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<g ref="char:EOLhyphen"/>mons, requires greater abilities then I can pretend to own; I am not alſo without fear, That the Publick Af<g ref="char:EOLhyphen"/>fairs, wherein Your Majeſty and Your Kingdom, in this juncture of time, are ſo highly concerned, may receive de<g ref="char:EOLhyphen"/>triment through my weakneſs.</p>
+            <p>I therefore with a plain humble heart, proſtrate at Your Royal feet, beſeech, That You will Command them to review what they have done, and to proceed to another Election.</p>
+         </div>
+         <div type="speech">
+            <pb n="20" facs="tcp:103453:11"/>
+            <head>The Lord Chancellor's Speech, <hi>Feb. 5. 1672.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <hi>Mr. Serjeant</hi> Charleton,</salute>
+            </opener>
+            <p>THe King hath very attentively heard your <hi>diſcreet</hi> and <hi>handſome Diſcourſe,</hi> whereby you endeavour to excuſe and diſable your ſelf for the place of <hi>Spea<g ref="char:EOLhyphen"/>ker;</hi> In anſwer whereof, his Majeſty hath com<g ref="char:EOLhyphen"/>manded me to ſay to you, That he doth in no ſort admit of the ſame; For his Majeſty hath had long experience of your <hi>Abilities, good Affection, In<g ref="char:EOLhyphen"/>tegrity</hi> and <hi>Reſolution</hi> in ſeveral employments of great Truſt and Weight: He knows you have been long a <hi>Parliament-man,</hi> and therefore every way fit<g ref="char:EOLhyphen"/>ted and qualified for the <hi>Employment:</hi> Beſides, he cannot diſapprove the Election of <hi>this houſe of Com<g ref="char:EOLhyphen"/>mons,</hi> eſpecially where they have expreſſed ſo much <hi>duty</hi> in chooſing one <hi>worthy</hi> and <hi>acceptable to him,</hi> And therefore the King doth allow of the <hi>Election,</hi> and admits you for <hi>Speaker.</hi>
+            </p>
+         </div>
+         <div type="speech">
+            <pb n="21" facs="tcp:103453:11"/>
+            <head>
+               <hi>Mr. Speakers Speech,</hi> Feb. 5. 1672.</head>
+            <opener>
+               <salute>Great SIR,</salute>
+            </opener>
+            <p>SInce it is Your Gracious Pleaſure not to accept of my humble Excuſe, but by Your Royal Approbation to fix me under this Great, though Honourable Weight, and to think me fit to be inveſted with a Truſt of ſo high a nature as this is.</p>
+            <p>I take it in the firſt place to be incumbent upon me, that I render Your Majeſty all poſsible thanks, which I now humbly do with a heart full of all Duty, and affected with a deeper ſenſe of Grati<g ref="char:EOLhyphen"/>tude then I can find words to expreſs.</p>
+            <p>Next, from Your Royal Determination in this Affair, whereby you have imprinted a new Cha<g ref="char:EOLhyphen"/>racter upon me, I take courage againſt my own di<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>idence, and chearfully bend my ſelf with ſuch ſtrength and abilities as God ſhall give to the Ser<g ref="char:EOLhyphen"/>vice ſo graciouſly deſigned me; no way doubting, that Your Majeſty will pleaſe to pardon my Frail<g ref="char:EOLhyphen"/>ties, to accept of my faithful Endeavours, and al<g ref="char:EOLhyphen"/>ways to look favourably on the Work of Your own <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ands.</p>
+            <p>And now Sir, my firſt Entrance upon this Ser<g ref="char:EOLhyphen"/>vice, obliges me to make a few neceſſary, but hum<g ref="char:EOLhyphen"/>ble Petitions on the behalf of Your moſt Loyal and Dutiful Houſe of Commons.</p>
+            <p n="1">
+               <pb n="22" facs="tcp:103453:12"/>1. <hi>That for our better Attendance on the Publick Service, we and our Ser<g ref="char:EOLhyphen"/>vants may be free in our Perſons and Eſtates from Arreſts and other Di<g ref="char:EOLhyphen"/>ſturbances.</hi>
+            </p>
+            <p n="2">2. <hi>That in our Debates, Liberty and Freedom of Speech be allowed us.</hi>
+            </p>
+            <p n="3">3. <hi>That as occaſions ſhall require, Your Majeſty upon our humble suit, and at ſuch times as Your Majeſty ſhall judge ſeaſonable, will vouchſafe us acceſs to Your Royal Perſon.</hi>
+            </p>
+            <p n="4">4. <hi>That all our Proceedings may re<g ref="char:EOLhyphen"/>ceive a favourable Conſtruction.</hi>
+            </p>
+            <p>
+               <hi>That God, who hath brought You back to the Throne of Your Fathers, and with You all our Comforts, grant You a long and a proſperous Reign, and ſend You Victory over all Your Ene<g ref="char:EOLhyphen"/>mies, and every good mans heart will ſay,</hi> Amen.</p>
+         </div>
+         <div type="speech">
+            <pb n="23" facs="tcp:103453:12"/>
+            <head>The Lord Chancellors SPEECH, <hi>Feb.</hi> 5. 1672.</head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>THe Kings Majeſty hath heard and well weighed your <hi>ſhort</hi> and <hi>Eloquent O<g ref="char:EOLhyphen"/>ration;</hi> And in the firſt place much approves that you have with ſo much advantage, introduced a ſhorter way of ſpeaking upon this occaſion: His Majeſty doth well accept of all thoſe <hi>dutiful</hi> and <hi>affectionate</hi> expreſſions in which you have delivered your <hi>Submiſsion</hi> to his Royal pleaſure; And looks upon it as a <hi>good Omen</hi> to his affairs, and as an Evidence that the <hi>Houſe of Com<g ref="char:EOLhyphen"/>mons</hi> have ſtill the ſame <hi>Heart,</hi> that have choſen ſuch a <hi>Mouth.</hi> The conjuncture of time, and the King and Kingdoms affairs require <hi>ſuch a Houſe of Com<g ref="char:EOLhyphen"/>mons, ſuch a Speaker;</hi> for with reverence to the ho<g ref="char:EOLhyphen"/>ly Scripture upon this occaſion the King may ſay, <hi>He that is not with me is against me;</hi> for he that doth not now put his <hi>Hand</hi> and <hi>Heart</hi> to <hi>Support</hi> the King in the common cauſe of this Kingdom, can hardly ever hope for ſuch another <hi>opportunity,</hi> or find a time to make ſatisfaction for the <hi>Omiſsion of this.</hi>
+            </p>
+            <p>Next, I am commanded by his Majeſty to anſwer your four Petitions, whereof the firſt being; <hi>The freedom of you and your Servants in your Perſons and
+<pb n="24" facs="tcp:103453:13"/> Eſtates, without arreſt or other diſturbance,</hi> the King is graciouſly pleaſed to grant it as full as to any of your Predeceſſors.</p>
+            <p>The Second for <hi>Liberty and Freedom of Speech,</hi> the Third for <hi>acceſs to his Royal perſon.</hi> And the Fourth, that <hi>your proceedings may receive a Favoura<g ref="char:EOLhyphen"/>ble conſtruction,</hi> are all freely and fully granted by his Majeſty.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi>
+            </p>
+            <p>Printed by the Aſsigns of <hi>John Bill</hi> and <hi>Chri<g ref="char:EOLhyphen"/>ſtopher Barker,</hi> Printers to the Kings Moſt Excellent Majeſty, 1672.</p>
+            <pb facs="tcp:103453:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
